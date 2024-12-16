@@ -54248,7 +54248,7 @@ const iee = () => {
                               offset: -50,
                               activeClass: "active",
                               spy: !0,
-                              children: "Why XERO",
+                              children: "Why ARCAN",
                             }),
                           }),
                           y.jsx("li", {
@@ -54370,7 +54370,7 @@ const iee = () => {
                         children: y.jsx("p", {
                           onClick: t,
                           className: "w-full",
-                          children: "Why XERO",
+                          children: "Why ARCAN",
                         }),
                       }),
                     }),
@@ -54513,7 +54513,7 @@ const iee = () => {
                       offset: -50,
                       activeClass: "active",
                       spy: !0,
-                      children: "Why XERO",
+                      children: "Why ARCAN",
                     }),
                   }),
                   y.jsx("li", {
