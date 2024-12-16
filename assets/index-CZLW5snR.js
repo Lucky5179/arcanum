@@ -46615,7 +46615,7 @@ const l2 =
   },
   nK = () =>
     y.jsx("a", {
-      href: "https://app-arcanum.vercel.app/",
+      href: "https://www.dextools.io/app/",
       target: "_blank",
       rel: "noopener noreferrer",
       children: y.jsx("button", {
@@ -46623,7 +46623,7 @@ const l2 =
         children: y.jsxs("div", {
           className: "wrapper",
           children: [
-            y.jsx("span", { children: "Start Dapp" }),
+            y.jsx("span", { children: "Chart" }),
             y.jsx("div", { className: "circle circle-12" }),
             y.jsx("div", { className: "circle circle-11" }),
             y.jsx("div", { className: "circle circle-10" }),
