@@ -39288,31 +39288,31 @@ const sW =
       icon: aW,
       text: "Voice To Video",
       description:
-        "Arcanum AI converts your voice into captivating video narratives effortlessly. Join us and bring your ideas to life with XERO Voice To Video.",
+        "Arcanum AI converts your voice into captivating video narratives effortlessly. Join us and bring your ideas to life with ARCANN Voice To Video.",
     },
     {
       icon: lW,
       text: "Image To Video",
       description:
-        "Arcanum AI's Image To Video effortlessly turns static images into captivating video narratives. Join us and bring your visuals to life with XERO Image To Video.",
+        "Arcanum AI's Image To Video effortlessly turns static images into captivating video narratives. Join us and bring your visuals to life with ARCAN Image To Video.",
     },
     {
       icon: cW,
       text: "Accurate & Fast Results",
       description:
-        "Experience swift and precise results with Arcanum AI's Image To Video, turning your images into compelling narratives seamlessly. Join us and witness the accuracy and speed of XERO Image To Video.",
+        "Experience swift and precise results with Arcanum AI's Image To Video, turning your images into compelling narratives seamlessly. Join us and witness the accuracy and speed of ARCAN Image To Video.",
     },
     {
       icon: uW,
       text: "Custom Trained AI",
       description:
-        "XERO is the one and only true Text-To-Video, with its first custom trained Text-to-Video model with more then 90% Accuracy.",
+        "ARCAN is the one and only true Text-To-Video, with its first custom trained Text-to-Video model with more then 90% Accuracy.",
     },
     {
       icon: dW,
       text: "Custom API  For Others",
       description:
-        "Enabling seamless integration into your workflows. Join us and unlock endless possibilities with XERO Image To Video's tailored API solutions.",
+        "Enabling seamless integration into your workflows. Join us and unlock endless possibilities with ARCAN Image To Video's tailored API solutions.",
     },
   ],
   Iy = "-";
@@ -47832,7 +47832,7 @@ const c2 = Wf(oK),
                     className:
                       "text-white text-[1rem] text-justify lg:text-center lg:text-[1.25rem] font-CabinetGrotesk-Regular lg:leading-[2.0625rem] tracking-[0.045rem]",
                     children:
-                      "XERO Text-To-Video is the cutting-edge solution that empowers users to effortlessly transform text into captivating video content. With unparalleled ease and efficiency, Arcanum AI's innovative platform allows individuals and businesses to bring their ideas to life in stunning visual form. Say goodbye to the limitations of traditional content creation methods and unlock a world of limitless creativity with XERO Text-To-Video. Join us on the forefront of digital expression and discover the power of Arcanum AI today.",
+                      "ARCAN Text-To-Video is the cutting-edge solution that empowers users to effortlessly transform text into captivating video content. With unparalleled ease and efficiency, Arcanum AI's innovative platform allows individuals and businesses to bring their ideas to life in stunning visual form. Say goodbye to the limitations of traditional content creation methods and unlock a world of limitless creativity with ARCAN Text-To-Video. Join us on the forefront of digital expression and discover the power of Arcanum AI today.",
                   }),
                   y.jsx("div", {
                     className: "aboutAddressWrapper",
@@ -47975,7 +47975,7 @@ const c2 = Wf(oK),
             className:
               "text-white text-justify md:text-center font-[500] text-[1.25rem] font-CabinetGrotesk-Regular tracking-[0.045rem]",
             children:
-              "In a world with all the fake Text-to-Video AI/ML model, XERO is the one and only true Text-To-Video, with its first custom trained Text-to-Video model with over 90% Accuracy, $Arcanum AI setting new standards and benchmark in the world of Web3 and AI ecosystem. Yes! No paid APIs, $XERO is set to revolutionize Text-To-Video, serving as a gateway to a world of limitless possibilities.",
+              "In a world with all the fake Text-to-Video AI/ML model, ARCAN is the one and only true Text-To-Video, with its first custom trained Text-to-Video model with over 90% Accuracy, $Arcanum AI setting new standards and benchmark in the world of Web3 and AI ecosystem. Yes! No paid APIs, $ARCAN is set to revolutionize Text-To-Video, serving as a gateway to a world of limitless possibilities.",
           }),
           y.jsxs("div", {
             className:
@@ -47994,7 +47994,7 @@ const c2 = Wf(oK),
                     ref: t,
                     style: { rotate: r, transition: "rotate 0.5s ease-in-out" },
                     src: l2,
-                    alt: "xeroVectorImage",
+                    alt: "ARCANVectorImage",
                     className:
                       "absolute w-[20%] -translate-x-1/2 -translate-y-1/2 left-[40%] top-[40%]",
                   }),
@@ -52254,7 +52254,7 @@ const rZ = () => {
                                           className:
                                             "min-h-[9rem] px-[1.5rem] py-[1rem] outline-none bg-transparent  border-perple border-2 focus:ring-0 rounded-[0.5rem]",
                                           placeholder:
-                                            "Why do you need XERO API?",
+                                            "Why do you need ARCAN API?",
                                         }),
                                         y.jsx("button", {
                                           type: "submit",
