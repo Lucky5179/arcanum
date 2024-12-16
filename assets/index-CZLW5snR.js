@@ -39288,7 +39288,7 @@ const sW =
       icon: aW,
       text: "Voice To Video",
       description:
-        "Arcanum AI converts your voice into captivating video narratives effortlessly. Join us and bring your ideas to life with ARCANN Voice To Video.",
+        "Arcanum AI converts your voice into captivating video narratives effortlessly. Join us and bring your ideas to life with ARCAN Voice To Video.",
     },
     {
       icon: lW,
